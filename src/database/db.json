@@ -58,5 +58,11 @@
     "name": "JBL Flip 6 Bluetooth Speaker",
     "price": 129,
     "description": "Portable waterproof Bluetooth speaker with powerful sound, deep bass, and long-lasting battery performance."
+  },
+  {
+    "id": 1778717018440,
+    "name": "Head Phone",
+    "description": "test description 3",
+    "price": "50001"
   }
 ]
